@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Motivational quote for the Day</string>
+    <string-array name="notification_intervals">
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>6 hours</item>
+        <item>Once per day</item>
+    </string-array>
+    <integer-array name="notification_intervals_values">
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>7200000</item>
+        <item>21600000</item>
+        <item>86400000</item>
+    </integer-array>
+    <string name="quote_1">Every day is a new opportunity to be better than yesterday.</string>
+    <string name="quote_2">Don’t fear mistakes – fear inaction.</string>
+    <string name="quote_3">Only you decide what comes next.</string>
+    <string name="quote_4">Challenges are stepping stones to victories.</string>
+    <string name="quote_5">Success loves those who never give up.</string>
+    <string name="quote_6">It’s never too late to start over.</string>
+    <string name="quote_7">You are stronger than you think.</string>
+    <string name="quote_8">Great things start with small steps.</string>
+    <string name="quote_9">Doubt kills more dreams than failure ever will.</string>
+    <string name="quote_10">If not now, then when?</string>
+    <string name="quote_11">Every morning is a chance to change your life.</string>
+    <string name="quote_12">Obstacles are temporary; achievements are eternal.</string>
+    <string name="quote_13">Act as if failure is not an option.</string>
+    <string name="quote_14">Your potential is limitless.</string>
+    <string name="quote_15">Believe in yourself, even if others doubt you.</string>
+    <string name="quote_16">Victory begins with belief in success.</string>
+    <string name="quote_17">Every effort is a step closer to your goal.</string>
+    <string name="quote_18">Dreams work when you do.</string>
+    <string name="quote_19">You are the architect of your destiny.</string>
+    <string name="quote_20">The road to success starts with the first step.</string>
+    <string name="quote_21">Progress, not perfection, is what matters.</string>
+    <string name="quote_22">The harder you work, the luckier you get.</string>
+    <string name="quote_23">Your actions today create your future tomorrow.</string>
+    <string name="quote_24">Success starts with self-discipline.</string>
+    <string name="quote_25">Don’t wait for opportunity – create it.</string>
+    <string name="quote_26">Every failure is a lesson in disguise.</string>
+    <string name="quote_27">Consistency turns dreams into reality.</string>
+    <string name="quote_28">Small efforts every day lead to big results.</string>
+    <string name="quote_29">The only limit is the one you set for yourself.</string>
+    <string name="quote_30">Happiness is found in the journey, not the destination.</string>
+    <string name="quote_31">Believe in your ability to make things happen.</string>
+    <string name="quote_32">One positive thought can change your entire day.</string>
+    <string name="quote_33">Focus on your goals, not your fears.</string>
+    <string name="quote_34">You’ve survived everything you’ve faced so far – keep going.</string>
+    <string name="quote_35">Strength grows in the moments you think you can’t go on.</string>
+    <string name="quote_36">Dream big, work hard, stay humble.</string>
+    <string name="quote_37">Success comes to those who take action.</string>
+    <string name="quote_38">Your future depends on what you do today.</string>
+    <string name="quote_39">Don’t stop when you’re tired; stop when you’re done.</string>
+    <string name="quote_40">Greatness is a series of small decisions practiced every day.</string>
+    <string name="quote_41">Be the energy you want to attract.</string>
+    <string name="quote_42">Fear is temporary, regret is forever.</string>
+    <string name="quote_43">Growth starts where comfort ends.</string>
+    <string name="quote_44">Nothing changes unless you take the first step.</string>
+    <string name="quote_45">Be brave enough to be bad at something new.</string>
+    <string name="quote_46">You have the power to change your story.</string>
+    <string name="quote_47">The journey of a thousand miles begins with a single step.</string>
+    <string name="quote_48">Your dreams are waiting for your courage.</string>
+    <string name="quote_49">Success doesn’t come to you – you go to it.</string>
+    <string name="quote_50">The best way to predict the future is to create it.</string>
+    <string name="quote_51">Keep pushing forward, no matter how slow it feels.</string>
+    <string name="quote_52">Opportunities are born from challenges.</string>
+    <string name="quote_53">The secret of getting ahead is getting started.</string>
+    <string name="quote_54">Work hard in silence; let your success make the noise.</string>
+    <string name="quote_55">Every champion was once a beginner.</string>
+    <string name="quote_56">What seems impossible today will soon become your reality.</string>
+    <string name="quote_57">Mistakes are proof you’re trying.</string>
+    <string name="quote_58">Turn your wounds into wisdom.</string>
+    <string name="quote_59">Success is the sum of small efforts repeated daily.</string>
+    <string name="quote_60">Be so good they can’t ignore you.</string>
+    <string name="quote_61">Keep chasing your dreams – the effort is worth it.</string>
+    <string name="quote_62">Sometimes later becomes never – act now.</string>
+    <string name="quote_63">Your potential is waiting for your courage.</string>
+    <string name="quote_64">Make today so awesome that yesterday gets jealous.</string>
+    <string name="quote_65">Believe in the person you are becoming.</string>
+    <string name="quote_66">The only way to achieve the impossible is to try.</string>
+    <string name="quote_67">You are closer than you think to success.</string>
+    <string name="quote_68">Growth requires discomfort and persistence.</string>
+    <string name="quote_69">Your mindset is your superpower – use it wisely.</string>
+    <string name="quote_70">Don’t fear the challenge; embrace the opportunity.</string>
+    <string name="quote_71">Nothing is stronger than a made-up mind.</string>
+    <string name="quote_72">Today is a chance to do something great.</string>
+    <string name="quote_73">Your best life begins with your best effort.</string>
+    <string name="quote_74">Keep your focus on the goal, not the obstacles.</string>
+    <string name="quote_75">Hard work always pays off in the end.</string>
+    <string name="quote_76">If you stumble, make it part of the dance.</string>
+    <string name="quote_77">Failure is not the opposite of success; it’s part of it.</string>
+    <string name="quote_78">Every accomplishment starts with a decision to try.</string>
+    <string name="quote_79">Let your passion be your guide to greatness.</string>
+    <string name="quote_80">You’re not alone – your goals are worth the fight.</string>
+    <string name="quote_81">Stay consistent, even when no one is watching.</string>
+    <string name="quote_82">The best time to start is always now.</string>
+    <string name="quote_83">Nothing great ever came from comfort zones.</string>
+    <string name="quote_84">Success begins at the edge of your comfort zone.</string>
+    <string name="quote_85">Keep striving – greatness is within you.</string>
+    <string name="quote_86">Turn “I can’t” into “I can” every day.</string>
+    <string name="quote_87">Start where you are, use what you have, do what you can.</string>
+    <string name="quote_88">Your effort will inspire others to keep going.</string>
+    <string name="quote_89">Don’t quit – the best is yet to come.</string>
+    <string name="quote_90">A positive attitude creates positive results.</string>
+    <string name="quote_91">Your small steps will lead to big success.</string>
+    <string name="quote_92">Focus on progress, not perfection.</string>
+    <string name="quote_93">Believe in your power to achieve greatness.</string>
+    <string name="quote_94">You have everything you need to succeed.</string>
+    <string name="quote_95">Keep your vision strong and your heart open.</string>
+    <string name="quote_96">Every day is a new chance to grow.</string>
+    <string name="quote_97">Success is built on determination and courage.</string>
+    <string name="quote_98">The effort you put in today is an investment in tomorrow.</string>
+    <string name="quote_99">Your mindset is the key to unlocking your potential.</string>
+    <string name="quote_100">Stay focused, stay motivated, stay you.</string>
+    <string name="change_quote">Show another quote</string>
+    <string name="quote_of_day">Quote of the day</string>
+    <string name="motivation_for_you">Motivation for you</string>
+    <string name="sound">Sound %1$s</string>
+    <string name="access_allowed">Access granted</string>
+    <string name="access_denied">Access denied</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="no_access_for_restart">No access to restart service</string>
+    <string name="error_while_restart">Error while restart service: %1$s</string>
+    <string name="new_quote">New quote</string>
+    <string name="ok">OK</string>
+    <string name="no_access_to_notify">No access to notifies</string>
+    <string name="notify_settings">Notifies settings</string>
+    <string name="enable_sound_of_notifies">Enable sounds</string>
+    <string name="notifies_interval">Update interval</string>
+    <string name="show_next_quote">Show next quote</string>
+    <string name="select_time">Select time</string>
+    <string name="default_time">Selected time</string>
+    <string name="current_quote">Your motivation</string>
+    <string name="channel_name" translatable="false">Status Bar Notifications</string>
+    <string name="channel_description" translatable="false">Channel for displaying background quotes</string>
+    <string name="service_start_message">Service is running</string>
+    <string name="time_to_next_quote">Time to next quote</string>
+    <string name="time_left">Time left: %1$s</string>
+    <string name="d_02d_02d_02d">%d days %02d:%02d:%02d</string>
+    <string name="_02d_02d_02d">%02d:%02d:%02d</string>
+</resources>
